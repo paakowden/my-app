@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://kevin:J0o0ViffoP2jiiM7@cluster0.oo1wa.mongodb.net/my-mern-app?retryWrites=true&w=majority",
+    "jwtSecret": "spapsuaus"
+}
